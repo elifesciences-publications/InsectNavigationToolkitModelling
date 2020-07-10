@@ -516,3 +516,6 @@ for i,y in enumerate(map_y):
         world_zm_a[j,i] = A
         world_zm_p[j,i] = P
 ```
+
+
+This code is associated with the paper from Sun et al., "A decentralised neural model explaining optimal integration of navigational strategies in insects". eLife, 2020. http://doi.org/10.7554/eLife.54026
